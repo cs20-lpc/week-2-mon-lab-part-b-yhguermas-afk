@@ -26,5 +26,5 @@ public:
     string getName() const;
     int getAge() const;
 };
-#include "student.tpp"
+
 #endif
